@@ -1,11 +1,17 @@
-# Nova Inteligência — Repositório de Identidade e Contexto
+# Nova Inteligência — Repositório de Cliente
 
-> Repositório interno da agência. Uso exclusivo da equipe Nova Inteligência.
-> Contém identidade da marca, personas de clientes ideais, posicionamento, prompts de IA e templates de campanha.
+> Este é o repositório da **Nova Inteligência tratada como cliente da própria agência**.
+> Uso: identidade da marca, personas de clientes ideais, posicionamento, campanhas próprias, prompts de IA e templates de conteúdo/captação.
+
+⚠️ Separação importante:
+
+- Este repo é **Nova Inteligência Cliente** — marca, conteúdo, campanhas e presença da própria agência.
+- O repo `novai-sistema-empresa` é **Nova Inteligência Sistema** — filosofia, produtos, processos, operação, pessoas, agentes de IA, tecnologia e indicadores.
+- Não misturar documentação operacional interna neste repo de cliente.
 
 ---
 
-## Sobre a Agência
+## Sobre a Agência como Cliente
 
 | Campo | Informação |
 |---|---|
@@ -29,7 +35,7 @@
 
 ---
 
-## Estrutura deste Repositório
+## Estrutura deste Repositório de Cliente
 
 ```
 nova-inteligencia/
@@ -59,10 +65,15 @@ nova-inteligencia/
 
 ## Como Usar
 
-1. Abra `agent.md` e cole no Claude antes de qualquer produção
-2. Consulte `contexto/` para entender o posicionamento da agência
-3. Use os `prompts/` para criar conteúdo e campanhas
-4. Registre aprendizados em `historico/aprendizados.md` após cada campanha
+1. Abra `agent.md` antes de qualquer produção para a própria Nova Inteligência.
+2. Consulte `contexto/` para entender posicionamento, ICP e serviços da agência.
+3. Use `identidade/` para tom de voz, design system e referências.
+4. Use os `prompts/` para criar conteúdos, campanhas e captação da própria agência.
+5. Registre aprendizados em `historico/aprendizados.md` após cada campanha.
+
+Para processos internos, escopo de produtos, responsabilidades do time, fluxos de produção e sistema IA First, use o repositório separado:
+
+`Nova-inteligencia/novai-sistema-empresa`
 
 ---
 

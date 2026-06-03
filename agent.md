@@ -1,11 +1,17 @@
-# Agent — Nova Inteligência
+# Agent — Nova Inteligência Cliente
 
-> Este é o ponto de entrada para qualquer IA trabalhando com a identidade da Nova Inteligência.
-> Cole este arquivo no início de qualquer sessão de produção de conteúdo para a própria agência.
+> Este é o ponto de entrada para qualquer IA trabalhando com a **Nova Inteligência como cliente da própria agência**.
+> Use este arquivo para produção de conteúdo, campanhas, anúncios, posicionamento e comunicação da marca Nova Inteligência.
+
+⚠️ Separação importante:
+
+- Este repositório é para a **Nova Inteligência Cliente**: identidade, conteúdo, campanhas, captação e presença da própria agência.
+- O repositório `novai-sistema-empresa` é para a **Nova Inteligência Sistema**: filosofia, produtos, processos, operação, pessoas, agentes de IA, tecnologia e indicadores.
+- Não documentar processos internos da operação neste repo de cliente.
 
 ---
 
-## Quem é a Nova Inteligência
+## Quem é a Nova Inteligência como cliente/marca
 
 A **Nova Inteligência** é uma agência de marketing estratégico com mais de 10 anos de mercado, especializada em ajudar **empresas de bem** a crescerem com autoridade e visibilidade.
 
