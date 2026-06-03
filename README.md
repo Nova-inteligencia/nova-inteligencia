@@ -45,7 +45,15 @@ nova-inteligencia/
 │   ├── sobre-a-empresa.md        ← história, missão, diferenciais
 │   ├── publico-alvo.md           ← personas dos clientes ideais da Nova Inteligência
 │   ├── concorrentes.md           ← outras agências e posicionamento competitivo
-│   └── servicos.md               ← catálogo de serviços oferecidos
+│   └── servicos.md               ← catálogo geral de serviços oferecidos
+├── produtos/
+│   ├── README.md                 ← visão geral dos produtos comerciais
+│   ├── trilha-evolutiva.md       ← lógica Funil I → II → III
+│   ├── funil-1-base-digital.md   ← produto de entrada para gerar demanda
+│   ├── funil-2-aceleracao-de-vendas.md
+│   ├── funil-3-dominacao-de-mercado.md
+│   ├── marketing-on-demand.md
+│   └── agentes-ia-comercial.md
 ├── identidade/
 │   ├── tom-de-voz.md             ← como a Nova Inteligência fala
 │   ├── palavras-chave.md         ← vocabulário, termos e frases da marca
@@ -67,9 +75,10 @@ nova-inteligencia/
 
 1. Abra `agent.md` antes de qualquer produção para a própria Nova Inteligência.
 2. Consulte `contexto/` para entender posicionamento, ICP e serviços da agência.
-3. Use `identidade/` para tom de voz, design system e referências.
-4. Use os `prompts/` para criar conteúdos, campanhas e captação da própria agência.
-5. Registre aprendizados em `historico/aprendizados.md` após cada campanha.
+3. Consulte `produtos/` para entender os produtos comerciais: Funil I, Funil II, Funil III, Marketing On-Demand e Agentes IA.
+4. Use `identidade/` para tom de voz, design system e referências.
+5. Use os `prompts/` para criar conteúdos, campanhas e captação da própria agência.
+6. Registre aprendizados em `historico/aprendizados.md` após cada campanha.
 
 Para processos internos, escopo de produtos, responsabilidades do time, fluxos de produção e sistema IA First, use o repositório separado:
 

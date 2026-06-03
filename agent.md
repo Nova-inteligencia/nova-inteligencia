@@ -66,6 +66,9 @@ Empresas estabelecidas que têm um bom produto/serviço mas ainda não dominaram
 1. `contexto/sobre-a-empresa.md` — história, missão, diferenciais
 2. `contexto/publico-alvo.md` — para quem a Nova Inteligência fala
 3. `identidade/tom-de-voz.md` — como falar
-4. `contexto/servicos.md` — o que oferece
-5. `prompts/copy-social.md` — produção de conteúdo para redes sociais
-6. `prompts/ads-meta.md` — captação de novos clientes via Meta Ads
+4. `contexto/servicos.md` — catálogo geral de serviços
+5. `produtos/README.md` — visão geral dos produtos comerciais
+6. `produtos/trilha-evolutiva.md` — lógica Funil I → Funil II → Funil III
+7. Produto específico em `produtos/` quando a tarefa envolver oferta, campanha ou proposta
+8. `prompts/copy-social.md` — produção de conteúdo para redes sociais
+9. `prompts/ads-meta.md` — captação de novos clientes via Meta Ads
