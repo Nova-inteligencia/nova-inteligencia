@@ -70,5 +70,8 @@ Empresas estabelecidas que têm um bom produto/serviço mas ainda não dominaram
 5. `produtos/README.md` — visão geral dos produtos comerciais
 6. `produtos/trilha-evolutiva.md` — lógica Funil I → Funil II → Funil III
 7. Produto específico em `produtos/` quando a tarefa envolver oferta, campanha ou proposta
-8. `prompts/copy-social.md` — produção de conteúdo para redes sociais
-9. `prompts/ads-meta.md` — captação de novos clientes via Meta Ads
+8. `conteudo/README.md` — organização da linha editorial institucional da Novai
+9. `conteudo/estrategia/separacao-editorial-novai-vs-cesar.md` — separação entre conteúdo da agência e conteúdo pessoal do Cesar
+10. `conteudo/estrategia/linha-editorial-agencia.md` — direção de conteúdo da agência
+11. `prompts/copy-social.md` — produção de conteúdo para redes sociais
+12. `prompts/ads-meta.md` — captação de novos clientes via Meta Ads

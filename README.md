@@ -59,6 +59,11 @@ nova-inteligencia/
 │   ├── palavras-chave.md         ← vocabulário, termos e frases da marca
 │   ├── design-system.md          ← paleta, tipografia, estilo visual
 │   └── referencias.md            ← marcas e agências de referência
+├── conteudo/
+│   ├── README.md                 ← organização da produção institucional da Novai
+│   ├── estrategia/               ← separação editorial e linha da agência
+│   ├── benchmarks/               ← referências como V4 Company e Agência Mestre
+│   └── pautas/                   ← ideias e matrizes de conteúdo
 ├── campanhas/
 │   └── _template-campanha.md     ← briefing padrão para campanhas próprias
 ├── prompts/
@@ -77,8 +82,9 @@ nova-inteligencia/
 2. Consulte `contexto/` para entender posicionamento, ICP e serviços da agência.
 3. Consulte `produtos/` para entender os produtos comerciais: Funil I, Funil II, Funil III, Marketing On-Demand e Agentes IA.
 4. Use `identidade/` para tom de voz, design system e referências.
-5. Use os `prompts/` para criar conteúdos, campanhas e captação da própria agência.
-6. Registre aprendizados em `historico/aprendizados.md` após cada campanha.
+5. Use `conteudo/` para organizar a linha editorial institucional da Novai, separada do posicionamento pessoal do Cesar.
+6. Use os `prompts/` para criar conteúdos, campanhas e captação da própria agência.
+7. Registre aprendizados em `historico/aprendizados.md` após cada campanha.
 
 Para processos internos, escopo de produtos, responsabilidades do time, fluxos de produção e sistema IA First, use o repositório separado:
 
