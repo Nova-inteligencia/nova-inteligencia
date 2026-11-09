@@ -65,7 +65,9 @@ nova-inteligencia/
 │   ├── benchmarks/               ← referências como V4 Company e Agência Mestre
 │   └── pautas/                   ← ideias e matrizes de conteúdo
 ├── campanhas/
-│   └── _template-campanha.md     ← briefing padrão para campanhas próprias
+│   ├── _template-campanha.md     ← briefing padrão para campanhas próprias
+│   └── black-friday-2026/
+│       └── README.md             ← Ativação Local + Base Digital — Funil I
 ├── prompts/
 │   ├── copy-social.md            ← prompts para redes sociais da Nova Inteligência
 │   ├── ads-meta.md               ← prompts para anúncios de captação de clientes
@@ -85,6 +87,7 @@ nova-inteligencia/
 5. Use `conteudo/` para organizar a linha editorial institucional da Novai, separada do posicionamento pessoal do Cesar.
 6. Use os `prompts/` para criar conteúdos, campanhas e captação da própria agência.
 7. Registre aprendizados em `historico/aprendizados.md` após cada campanha.
+8. Para a campanha vigente de Black Friday 2026, consulte `campanhas/black-friday-2026/README.md` antes de criar peças, páginas, anúncios ou propostas.
 
 Para processos internos, escopo de produtos, responsabilidades do time, fluxos de produção e sistema IA First, use o repositório separado:
 
