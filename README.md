@@ -67,7 +67,11 @@ nova-inteligencia/
 ├── campanhas/
 │   ├── _template-campanha.md     ← briefing padrão para campanhas próprias
 │   └── black-friday-2026/
-│       └── README.md             ← Ativação Local + Base Digital — Funil I
+│       ├── README.md             ← índice e roteamento entre as duas ofertas
+│       ├── ativacao-local/
+│       │   └── README.md         ← definição canônica da Ativação Local
+│       └── base-digital-funil-1/
+│           └── README.md         ← definição canônica do Base Digital — Funil I
 ├── prompts/
 │   ├── copy-social.md            ← prompts para redes sociais da Nova Inteligência
 │   ├── ads-meta.md               ← prompts para anúncios de captação de clientes
@@ -87,7 +91,7 @@ nova-inteligencia/
 5. Use `conteudo/` para organizar a linha editorial institucional da Novai, separada do posicionamento pessoal do Cesar.
 6. Use os `prompts/` para criar conteúdos, campanhas e captação da própria agência.
 7. Registre aprendizados em `historico/aprendizados.md` após cada campanha.
-8. Para a campanha vigente de Black Friday 2026, consulte `campanhas/black-friday-2026/README.md` antes de criar peças, páginas, anúncios ou propostas.
+8. Para a campanha vigente de Black Friday 2026, abra `campanhas/black-friday-2026/README.md` e depois consulte a definição canônica da oferta específica antes de criar peças, páginas, anúncios ou propostas.
 
 Para processos internos, escopo de produtos, responsabilidades do time, fluxos de produção e sistema IA First, use o repositório separado:
 

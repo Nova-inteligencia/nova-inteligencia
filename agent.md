@@ -75,4 +75,6 @@ Empresas estabelecidas que têm um bom produto/serviço mas ainda não dominaram
 10. `conteudo/estrategia/linha-editorial-agencia.md` — direção de conteúdo da agência
 11. `prompts/copy-social.md` — produção de conteúdo para redes sociais
 12. `prompts/ads-meta.md` — captação de novos clientes via Meta Ads
-13. `campanhas/black-friday-2026/README.md` — definição aprovada das campanhas Ativação Local e Base Digital — Funil I
+13. `campanhas/black-friday-2026/README.md` — índice e regra de roteamento da Black Friday 2026
+14. `campanhas/black-friday-2026/ativacao-local/README.md` — definição canônica da Ativação Local
+15. `campanhas/black-friday-2026/base-digital-funil-1/README.md` — definição canônica do Base Digital — Funil I
